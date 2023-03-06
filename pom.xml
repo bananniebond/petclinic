@@ -55,7 +55,7 @@
 	<scm>
 		<url>https://github.com/bananniebond/petclinic.git</url>
 		<developerConnection>scm:git:https://github.com/bananniebond/petclinic.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>petclinic-0.0.1</tag>
 	</scm>
 
 </project>

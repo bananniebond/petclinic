@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.example</groupId>
         <artifactId>petclinic</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>petclinic-web</artifactId>
@@ -19,7 +19,7 @@
         <dependency>
             <artifactId>petclinic-data</artifactId>
             <groupId>com.example</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
@@ -48,4 +48,8 @@
         </dependency>
     </dependencies>
 
+
+  <scm>
+    <tag>petclinic-0.0.1</tag>
+  </scm>
 </project>
