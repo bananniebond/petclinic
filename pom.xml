@@ -11,7 +11,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<packaging>pom</packaging>
 
@@ -53,7 +53,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/bananniebond/petclinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:bananniebond/petclinic.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
